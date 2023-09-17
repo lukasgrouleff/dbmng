@@ -1,3 +1,4 @@
 # dbmng
 This is my first repository
-I am looking forward to learning more about git
+I am looking forward to learning more
+About GitHub
